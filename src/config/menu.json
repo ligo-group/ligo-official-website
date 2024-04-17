@@ -1,0 +1,30 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "/whitepaper"
+    },
+    {
+      "name": "Wallet",
+      "url": "/staking"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    }
+  ],
+  "footer": [
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Team",
+      "url": "/tean"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "main": [
+    {
+      "name": "telegram",
+      "icon": "FaTelegram",
+      "link": "https://t.me/ligobtc"
+    },
+    {
+      "name": "twitter",
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/ligobtc"
+    },
+    {
+      "name": "github",
+      "icon": "FaGithub",
+      "link": "https://github.com/ligo-group/ligo-core/releases"
+    }
+
+  ]
+}
